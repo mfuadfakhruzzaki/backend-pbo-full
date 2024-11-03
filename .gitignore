@@ -1,0 +1,8 @@
+# .gitignore
+.env
+/go.sum
+/vendor/
+/*.exe
+/*.dll
+/*.so
+/*.dylib
